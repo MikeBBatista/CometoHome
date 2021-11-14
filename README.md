@@ -33,7 +33,7 @@
   
   <h2 style="font-family:roboto;"> Tecnologias Adotadas :computer:</h2>
    
-  * [Java](https://www.java.com/pt_BR/)
+  * [<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">](https://www.java.com/pt_BR/)
   * [Spring Boot](https://spring.io/)
   * [JavaScript](https://www.javascript.com/)
   * [Angular](https://angular.io/)
