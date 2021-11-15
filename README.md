@@ -53,7 +53,15 @@
  <details>
   <summary>Demonstração da Arquitetura do Angular</summary>
   <br>
-   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141854587-c851f23d-9c30-425b-a06e-ea6f54ce99d1.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141854587-c851f23d-9c30-425b-a06e-ea6f54ce99d1.png" width="200px;" alt=""/>
+  </details>
+  <p align="justify" style="font-family:roboto;">Como evidenciado pela imagem acima, todo componente dentro do angular possui os arquivos HTML, SCSS e TypeScripts próprios. Dentro do arquivo TypeScript do componente podemos setar configurações  de importação e template. Graças a isso é possível chama-los como uma tag criada dentro de suas configurações que assemelha-se aos elementos HTML dentro do projeto, provando a facilitação na reutilização de código.</p>
+   <details>
+  <summary>Demonstração da Arquitetura do Angular</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141857884-9db909e2-c0c3-41bb-b243-c144765ece43.png" width="200px;" alt=""/>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141858109-6f449af6-137c-4c44-9652-5d2e4485fc37.png" width="200px;" alt=""/>
+
   </details>
   ---
    
