@@ -46,7 +46,7 @@
   ---
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-  <h4 style="font-family:roboto;">ATRIBUIÇÕES DO DESENVOLVEDOR WEB</h4>
+  <h4 style="font-family:roboto;">AS ATRIBUIÇÕES DO DESENVOLVEDOR WEB</h4>
      <p align="justify" style="font-family:roboto;">As atribuições do desenvolvedor front-end estão relacionadas com a programação da interface, a integração da interface com as chamadas de API do back-end, e da interação do usuário com o programa. Ao desenvolver o responsável pelo front-end, tem contato com todas as outras áreas relacionadas a criação do projeto e por isso além de entender um pouco sobre o back-end para realização da integração, é importante também ter conhecimentos de ux/ui para opinar nas ideias de design, que apesar de não ser do escopo do desenvolvedor criar o estilo da interface, é importante que ele possua conhecimentos minímos para opinar de forma realista na criação do projeto. O #VEMPRACASA é um projeto web, e como tal existem inúmeras maneiras de se abordar seu desenvolvimento. Diante das diversas tecnologias existentes, a equipe optou pelo Angular.</p>
  <h4 style="font-family:roboto;">A ESCOLHA DA TECNOLOGIA</h4>
   <p align="justify" style="font-family:roboto;">O #VEMPRACASA é um projeto web, e como tal existem inúmeras maneiras de se abordar seu desenvolvimento. Diante das diversas tecnologias existentes, a equipe optou pela framework Angular. Apesar de existirem outras tecnologias, como VueJS e ReactJS que são outras duas frameworks de frontend com facilitações na criação de projetos web. A escolha da equipe foi fundamentada no conhecimento prévio ao projeto dos integrantes.</p>
