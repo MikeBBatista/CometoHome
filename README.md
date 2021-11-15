@@ -15,7 +15,7 @@
   <h2> Autor :necktie: </h2>
   <table align="center">
    <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/mike-barcelos-b4648016a/" target="_blank"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/MikeBarcelos.jfif" width="200px;" alt=""/><br/><b>Mike Barcelos</b></a>
+    <td align="center"><a href="https://www.linkedin.com/in/mike-barcelos-b4648016a/"><img style="border-radius: 50%;" src="https://github.com/GabrielSG20/API4Sem2021/blob/documentation/images/MikeBarcelos.jfif" width="200px;" alt=""/><br/><b>Mike Barcelos</b></a>
       <br/>
       Web Front-End Developer
      </td>
@@ -27,6 +27,7 @@
   <h2 style="font-family:roboto;"> Resumo do Projeto :clipboard:</h2>
   
   <p align="justify" style="font-family:roboto;"> :calendar: <b>#VEMPRACASA</b> é uma parceria entre a <a href="https://www.oracle.com/br/index.html">Oracle</a> e a FATEC São José dos Campos com a finalidade de desenvolvimento de um Sistema para realização de agendamentos de eventos nos espaços da Casa Oracle, seguindo as normas vigentes de ocupação por conta da Pandemia do Coronavírus, tendo a possibilidade de priorização de acordo com regras de negócio, facilitando a inscrição e cadastro de convidados e aumentando o controle por parte dos organizadores.</p>
+  <p align="justify" style="font-family:roboto;">Nessa documentação será abordado o projeto da visão do desenvolvedor front-end, para mais informações gerais sobre o projeto [clique aqui](https://github.com/GabrielSG20/API4Sem2021)</p>
   
   ---
   
@@ -45,7 +46,8 @@
   ---
   
   <h2 style="font-family:roboto;"> Contribuições Individuais :dart:</h2>
-   
+     <p align="justify" style="font-family:roboto;">As atribuições do desenvolvedor front-end estão relacionadas com a programação da interface, a integração da interface com as chamadas de API do back-end, e da interação do usuário com o programa. Ao desenvolver o responsável pelo front-end, tem contato com todas as outras áreas relacionadas a criação do projeto. Quanto ao back-end já foi abordado a integração dos endpoints, mas também com a parte do design, que apesar de não ser do escopo do desenvolvedor criar, é importante que ele possua conhecimentos minímos para opinar de forma realista na criação do projeto.</p>
+  <p align="justify" style="font-family:roboto;">O #VEMPRACASA é um projeto web, ecomo tal existem inúmeras maneiras de se abordar seu desenvolvimento. Diante das diversas tecnologias existentes, a equipe optou pelo Angular:</p>
   ---
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
