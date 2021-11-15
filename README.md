@@ -53,7 +53,7 @@
  <details>
   <summary>Demonstração da Arquitetura do Angular</summary>
   <br>
-   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141854587-c851f23d-9c30-425b-a06e-ea6f54ce99d1.png" width="200px;" alt=""/>
+   <img align="center" style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141854587-c851f23d-9c30-425b-a06e-ea6f54ce99d1.png" width="200px;" alt=""/>
   </details>
   ---
    
