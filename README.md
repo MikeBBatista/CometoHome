@@ -37,6 +37,7 @@
   * [Spring Boot](https://spring.io/)
   * [JavaScript](https://www.javascript.com/)
   * [Angular](https://angular.io/)
+  * [MirageJS](https://miragejs.com/) 
   * [Oracle SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html)
   * [Figma](https://www.figma.com/)
   * [Jira](https://vempracasa.atlassian.net/) 
@@ -88,11 +89,55 @@
   <p align="justify" style="font-family:roboto;">Pode-se observar, que no arquivo de serviços do aplicativo, a configuração é a mesma seja para uma API verdadeira ou para o MirageJS, a única diferença é a chamada da URL. E para que a fake API funcione, no componente que será feito as requisições é necessário realizar a chamada do MirageJS, como ocorre na segunda imagem. É importante lembrar que ao sair de uma tela para outra, é necessário fechar a requisição do Mirage para evitar conflitos de requisições em outros componentes como é feito com as requisições reais.</p>
   <h4 style="font-family:roboto;">OS COMPONENTES DO PROJETO</h4>
   <p align="justify" style="font-family:roboto;">A lista de componentes do projeto #VEMPRACASA é extensa, e vai desde os mais simples como por exemplo as telas de login e cadastro, os menus superior e lateral e as demais telas. O componente de menu superior, é o que melhor exemplifica a reutilização de código sem a necessidade de redigita-lo, já que é um componente que esta presente em quase todas as telas do projeto.</p>
-  
+  <details>
+  <summary>Demonstração do menu superior na página do projeto</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141869256-16c6b18a-3505-4f22-af89-2623d7a49550.png" alt=""/>
+  </details>
+  <p align="justify" style="font-family:roboto;">Como já foi explicado, todos os componentes fazem uso dos arquivos HTML, SCSS e TypeScript, mas é necessário mencionar, que o SCSS, faz uso de uma tecnologia conhecida como pré processamento do CSS, que permite a utilização de váriaveis e programação por escopo no CSS.</p>
+   <details>
+  <summary>Exemplificação do uso de SCSS</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141869487-78557983-e212-4514-a5db-ba7455cc9520.png" alt=""/>
+  </details>
+  <p align="justify" style="font-family:roboto;">A maioria dos componentes seguem o mesmo padrão de construção, que é baseado no HTML e SCSS junto com a biblioteca conhecida por <a href="https://material.angular.io/">Angular Material</a>. Porém é preciso citar com destaque as telas que possuem a consulta dos eventos, que é baseada em um calendário. Essa tela é feita através de uma outra biblioteca conhecida como <a href="https://mattlewis92.github.io/angular-calendar/#/kitchen-sink">Angular-Calendar</a>.</p>
+  <details>
+  <summary>Demonstração do elemento de calendário</summary>
+  <br>
+   <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/46934773/141872004-802fd520-59cb-479a-bb9d-36e5aa73c6fe.png" alt=""/>
+  </details>
+  <p align="justify" style="font-family:roboto;">Esse calendário é um componente completo, capaz de ilustrar eventos, assim como chamar requisições para criar e excluir eventos. No projeto entretanto, utilizamos apenas da função de demonstração de eventos, e mesmo apenas com essa função, a biblioteca se mostrou completa com opções de edição para cores dos eventos, e até mesmo a disposição do calendário, como mensal, semanal e diário.</p>
+  <h4 style="font-family:roboto;">Considerações finais</h4>
+  <p align="justify" style="font-family:roboto;">Apesar de ser um projeto realizado para demandas acadêmicas, é notório que o nível de organização e desenvolvimento da equipe como um todo foi superior ao esperado de alunos ou estagiários. O resultado até então do projeto é facilmente atrelado a uma equipe de desenvolvedores juniors. Ser responsável pelo desenvolvimento do front-end como o principal desenvolvedor, foi desafiante, porém satisfatório.</p>
   ---
    
   <h2 style="font-family:roboto;"> Aprendizados Efetivos :book:</h2>   
-  
+  <ul>
+  <li>Agile Scrum:
+  <ul>
+    <li>Quebra de Tasks;</li>
+    <li>Organização e acompanhamento regular do desenvolvimento;</li>   
+    <li>Equipe trabalhando como Squad;</li>
+    </ul></li>
+  <li>Pré processador de CSS:
+  <ul>
+    <li>Variáveis e escopo no CSS;</li>
+    <li>Organização de código do CSS;</li>   
+    <li>Padronização de variáveis reutilizaveis;</li>
+    </ul></li>
+   <li>Integração front-back:
+  <ul>
+    <li>Configuração de chamadas das API's;</li>
+    <li>Implementação e consumo dos serviços da API;</li>   
+    <li>Envio de resposta para o back-end;</li>
+    </ul></li>
+   <li>Criação de serviço do tipo Mock:
+  <ul>
+    <li>Aplicação do MirageJS no projeto;</li>
+    <li>Implementação e consumo de uma fake API através do MirageJS;</li>   
+    <li>Criação e manipulação de dados "mockados";</li>
+    </ul></li>
+  </ul>
   ---
 
 </body>
